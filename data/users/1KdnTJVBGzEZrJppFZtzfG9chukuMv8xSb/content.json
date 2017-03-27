@@ -1,0 +1,14 @@
+{
+ "address": "1LANDERvVWbShpNWpsrbBvfqSK1PabXtwv",
+ "files": {
+  "data.json": {
+   "sha512": "65a29786a9c0044358d1174ccd89658d57c36ce27af3d01d12745330840cf683",
+   "size": 315715
+  }
+ },
+ "inner_path": "data/users/1KdnTJVBGzEZrJppFZtzfG9chukuMv8xSb/content.json",
+ "modified": 1489446761,
+ "signs": {
+  "1LANDERvVWbShpNWpsrbBvfqSK1PabXtwv": "G8jKYK2ujDavRPyYFBV9liKS74AXA+MftH6kpqG/jmvc+73DjNtwqGZNLQWAxv7wSFxOx1SnMTgwN6Fey/UjMQ4="
+ }
+}

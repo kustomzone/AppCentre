@@ -1,6 +1,6 @@
 ### AppCentre
 
-- Homepage appstore for Fuzium
+- Homepage appstore for [Fuzium](https://github.com/kustomzone/Fuzium)
 - (v0.0.1 updated 27/03/2017)
  
 #### Features
